@@ -1,0 +1,2 @@
+[global]
+myopenAIkey = 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
